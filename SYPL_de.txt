@@ -1,0 +1,83 @@
+# ShyyYuki Proprietary License (SYPL) 1.0
+
+**Copyright © 2026 ShyyYuki. Alle Rechte vorbehalten.**
+
+## 1. Geltungsbereich
+
+Diese Lizenz gilt für sämtliche Werke, Inhalte, Software, Quellcodes, Skripte, Grafiken, Bilder, Modelle, Animationen, Texte, Dokumentationen, Audioinhalte, Videoinhalte, Designs, Logos, Marken, Dateien sowie alle weiteren Materialien, die von ShyyYuki erstellt oder veröffentlicht wurden.
+
+## 2. Eigentumsrechte
+
+Alle geistigen Eigentumsrechte verbleiben ausschließlich bei ShyyYuki. Durch diese Lizenz werden keinerlei Eigentumsrechte, Nutzungsrechte oder sonstige Rechte übertragen, außer soweit ausdrücklich schriftlich durch ShyyYuki genehmigt.
+
+## 3. Verbotene Handlungen
+
+Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist insbesondere untersagt:
+
+* Kopieren.
+* Herunterladen.
+* Speichern.
+* Veröffentlichen.
+* Hochladen.
+* Weitergeben.
+* Verteilen.
+* Spiegeln.
+* Archivieren.
+* Verändern.
+* Bearbeiten.
+* Übersetzen.
+* Kompilieren.
+* Dekompilieren.
+* Reverse Engineering betreiben.
+* Extrahieren einzelner Bestandteile.
+* Wiederverwenden.
+* Nachbauen.
+* Nachprogrammieren.
+* Vermieten.
+* Verleihen.
+* Verkaufen.
+* Lizenzieren.
+* Unterlizenzieren.
+* Kommerzielle Nutzung.
+* Private Weitergabe.
+* Öffentliche Vorführung.
+* Öffentliche Zugänglichmachung.
+* Nutzung in Videos, Streams oder sozialen Medien.
+* Nutzung zum Training von KI-Systemen oder maschinellen Lernmodellen.
+* Nutzung in Datenbanken oder Datensammlungen.
+* Erstellung abgeleiteter Werke.
+* Verwendung einzelner Teile oder Auszüge.
+
+## 4. Keine Nutzungsrechte
+
+Sofern ShyyYuki keine ausdrückliche schriftliche Genehmigung erteilt, wird keinerlei Recht zur Nutzung des Werkes eingeräumt.
+
+## 5. Schriftliche Genehmigungen
+
+Genehmigungen sind ausschließlich gültig, wenn sie von ShyyYuki ausdrücklich schriftlich erteilt wurden. Mündliche Aussagen oder stillschweigende Duldung begründen keinerlei Rechte.
+
+## 6. Automatisierte Nutzung
+
+Jegliche automatisierte Verarbeitung, Analyse, Datenerfassung, Archivierung, Indexierung oder sonstige maschinelle Nutzung ist untersagt.
+
+## 7. Haftung
+
+Das Werk wird ohne jegliche Gewähr bereitgestellt. ShyyYuki übernimmt keine Haftung für unmittelbare oder mittelbare Schäden, Datenverluste, Betriebsunterbrechungen oder sonstige Folgen, soweit gesetzlich zulässig.
+
+## 8. Verstöße
+
+Jede Nutzung entgegen dieser Lizenz stellt eine unbefugte Nutzung dar. ShyyYuki behält sich sämtliche gesetzlichen Rechte und Ansprüche vor.
+
+## 9. Salvatorische Klausel
+
+Sollte eine Bestimmung dieser Lizenz unwirksam sein oder werden, bleiben die übrigen Bestimmungen unberührt.
+
+## 10. Änderungen
+
+ShyyYuki kann diese Lizenz jederzeit ändern oder durch eine neue Version ersetzen. Für bereits erteilte schriftliche Genehmigungen gilt die zum Zeitpunkt der Genehmigung maßgebliche Version, sofern nichts anderes vereinbart wurde.
+
+## 11. Schlussbestimmungen
+
+Alle Rechte, die in dieser Lizenz nicht ausdrücklich eingeräumt werden, bleiben ausschließlich ShyyYuki vorbehalten.
+
+**Kurzfassung:** Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist keinerlei Nutzung des Werkes gestattet.

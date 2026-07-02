@@ -1,0 +1,77 @@
+# ShyyYuki Proprietary License (SYPL) 1.0
+
+**Copyright © 2026 ShyyYuki. All Rights Reserved.**
+
+## 1. Scope
+
+This License applies to all works, software, source code, scripts, graphics, images, models, animations, text, documentation, audio, video, designs, logos, trademarks, files, and any other materials created, published, or distributed by ShyyYuki.
+
+## 2. Ownership
+
+All intellectual property rights, copyrights, trademark rights, and any other proprietary rights remain the exclusive property of ShyyYuki. This License does not transfer ownership or grant any rights except where explicitly authorized in writing by ShyyYuki.
+
+## 3. Prohibited Actions
+
+Unless ShyyYuki has provided prior explicit written permission, you may **not**:
+
+* Copy or reproduce the Work.
+* Download, archive, or permanently store the Work.
+* Redistribute or share the Work.
+* Publish or republish the Work.
+* Upload the Work to any website, platform, server, or service.
+* Modify, edit, adapt, translate, or transform the Work.
+* Create derivative works.
+* Reverse engineer, decompile, or disassemble any software included in the Work where applicable.
+* Extract individual assets or components.
+* Use the Work commercially or for business purposes.
+* Use the Work privately beyond what is permitted by applicable law.
+* Sell, rent, lease, sublicense, or otherwise transfer the Work.
+* Include the Work in another project.
+* Mirror or host the Work on another service.
+* Use the Work in videos, livestreams, broadcasts, or presentations.
+* Use the Work for artificial intelligence, machine learning, data mining, or model training.
+* Use the Work in datasets, archives, databases, or collections.
+* Circumvent or attempt to bypass any technical protection measures.
+* Remove, modify, or obscure copyright notices, trademarks, or ownership information.
+
+## 4. No License Granted
+
+No rights of use, reproduction, modification, distribution, public display, commercial exploitation, or any other rights are granted unless expressly authorized in writing by ShyyYuki.
+
+## 5. Written Permission
+
+Any permission granted by ShyyYuki must be in written form. Verbal statements, implied consent, or failure to enforce this License shall not constitute permission or create any legal rights.
+
+## 6. Automated Access
+
+Automated copying, scraping, indexing, archiving, data collection, analysis, extraction, or any other automated processing of the Work is strictly prohibited without prior written authorization.
+
+## 7. Disclaimer of Warranty
+
+The Work is provided "AS IS" without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement, to the fullest extent permitted by applicable law.
+
+## 8. Limitation of Liability
+
+To the maximum extent permitted by applicable law, ShyyYuki shall not be liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages arising from or related to the use or inability to use the Work.
+
+## 9. Violations
+
+Any use of the Work in violation of this License constitutes unauthorized use. ShyyYuki reserves all legal rights and remedies available under applicable law, including claims for injunctive relief, damages, and any other available legal remedies.
+
+## 10. Severability
+
+If any provision of this License is determined to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+## 11. Amendments
+
+ShyyYuki reserves the right to revise, replace, or update this License at any time. Unless otherwise agreed in writing, previously granted written permissions remain subject to the License version in effect at the time the permission was granted.
+
+## 12. Reservation of Rights
+
+All rights not expressly granted under this License are reserved exclusively by ShyyYuki.
+
+## 13. Entire Agreement
+
+This License constitutes the entire agreement regarding the use of the Work and supersedes any prior oral or written understandings concerning its use.
+
+**Summary:** Unless you have obtained prior explicit written permission from ShyyYuki, you are not permitted to copy, modify, distribute, publish, commercialize, or otherwise use any part of the Work. All rights are reserved by ShyyYuki.

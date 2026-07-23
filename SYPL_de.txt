@@ -10,7 +10,15 @@ Diese Lizenz gilt für sämtliche Werke, Inhalte, Software, Quellcodes, Skripte,
 
 Alle geistigen Eigentumsrechte verbleiben ausschließlich bei ShyyYuki. Durch diese Lizenz werden keinerlei Eigentumsrechte, Nutzungsrechte oder sonstige Rechte übertragen, außer soweit ausdrücklich schriftlich durch ShyyYuki genehmigt.
 
-## 3. Verbotene Handlungen
+## 3. Nexus Authority Intellectual Property Notice
+
+"Nexus Authority" sowie alle damit verbundenen ursprünglichen Inhalte, einschließlich Lore, Geschichten, Konzepte, Dokumentationen, Designs, Grafiken, Logos, Namen, Dateien und sonstiger erstellter Materialien, sind geistiges Eigentum von ShyyYuki.
+
+Die erstmalige dokumentierte Nutzung und Entwicklung von Nexus Authority erfolgte im Jahr 2025.
+
+Jegliche Nutzung, Darstellung oder Veröffentlichung, die den Eindruck erweckt, ein Projekt sei offiziell mit Nexus Authority verbunden, autorisiert oder Teil des ursprünglichen Projekts, ist ohne ausdrückliche schriftliche Genehmigung von ShyyYuki untersagt.
+
+## 4. Verbotene Handlungen
 
 Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist insbesondere untersagt:
 
@@ -48,36 +56,37 @@ Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist insbeson
 * Erstellung abgeleiteter Werke.
 * Verwendung einzelner Teile oder Auszüge.
 
-## 4. Keine Nutzungsrechte
+## 5. Keine Nutzungsrechte
 
 Sofern ShyyYuki keine ausdrückliche schriftliche Genehmigung erteilt, wird keinerlei Recht zur Nutzung des Werkes eingeräumt.
 
-## 5. Schriftliche Genehmigungen
+## 6. Schriftliche Genehmigungen
 
 Genehmigungen sind ausschließlich gültig, wenn sie von ShyyYuki ausdrücklich schriftlich erteilt wurden. Mündliche Aussagen oder stillschweigende Duldung begründen keinerlei Rechte.
 
-## 6. Automatisierte Nutzung
+## 7. Automatisierte Nutzung
 
 Jegliche automatisierte Verarbeitung, Analyse, Datenerfassung, Archivierung, Indexierung oder sonstige maschinelle Nutzung ist untersagt.
 
-## 7. Haftung
+## 8. Haftung
 
 Das Werk wird ohne jegliche Gewähr bereitgestellt. ShyyYuki übernimmt keine Haftung für unmittelbare oder mittelbare Schäden, Datenverluste, Betriebsunterbrechungen oder sonstige Folgen, soweit gesetzlich zulässig.
 
-## 8. Verstöße
+## 9. Verstöße
 
 Jede Nutzung entgegen dieser Lizenz stellt eine unbefugte Nutzung dar. ShyyYuki behält sich sämtliche gesetzlichen Rechte und Ansprüche vor.
 
-## 9. Salvatorische Klausel
+## 10. Salvatorische Klausel
 
 Sollte eine Bestimmung dieser Lizenz unwirksam sein oder werden, bleiben die übrigen Bestimmungen unberührt.
 
-## 10. Änderungen
+## 11. Änderungen
 
 ShyyYuki kann diese Lizenz jederzeit ändern oder durch eine neue Version ersetzen. Für bereits erteilte schriftliche Genehmigungen gilt die zum Zeitpunkt der Genehmigung maßgebliche Version, sofern nichts anderes vereinbart wurde.
 
-## 11. Schlussbestimmungen
+## 12. Schlussbestimmungen
 
 Alle Rechte, die in dieser Lizenz nicht ausdrücklich eingeräumt werden, bleiben ausschließlich ShyyYuki vorbehalten.
 
-**Kurzfassung:** Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist keinerlei Nutzung des Werkes gestattet.
+**Kurzfassung:**  
+Ohne vorherige ausdrückliche schriftliche Genehmigung von ShyyYuki ist keinerlei Nutzung der geschützten Werke, Inhalte oder Bestandteile von Nexus Authority gestattet.

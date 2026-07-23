@@ -4,74 +4,89 @@
 
 ## 1. Scope
 
-This License applies to all works, software, source code, scripts, graphics, images, models, animations, text, documentation, audio, video, designs, logos, trademarks, files, and any other materials created, published, or distributed by ShyyYuki.
+This license applies to all works, content, software, source code, scripts, graphics, images, models, animations, text, documentation, audio content, video content, designs, logos, trademarks, files, and all other materials created or published by ShyyYuki.
 
-## 2. Ownership
+## 2. Ownership Rights
 
-All intellectual property rights, copyrights, trademark rights, and any other proprietary rights remain the exclusive property of ShyyYuki. This License does not transfer ownership or grant any rights except where explicitly authorized in writing by ShyyYuki.
+All intellectual property rights remain exclusively with ShyyYuki. This license does not transfer any ownership rights, usage rights, or other rights unless explicitly granted in writing by ShyyYuki.
 
-## 3. Prohibited Actions
+## 3. Nexus Authority Intellectual Property Notice
 
-Unless ShyyYuki has provided prior explicit written permission, you may **not**:
+"Nexus Authority" and all associated original materials, including lore, stories, concepts, documentation, designs, graphics, logos, names, files, and other created assets, are the intellectual property of ShyyYuki.
 
-* Copy or reproduce the Work.
-* Download, archive, or permanently store the Work.
-* Redistribute or share the Work.
-* Publish or republish the Work.
-* Upload the Work to any website, platform, server, or service.
-* Modify, edit, adapt, translate, or transform the Work.
-* Create derivative works.
-* Reverse engineer, decompile, or disassemble any software included in the Work where applicable.
-* Extract individual assets or components.
-* Use the Work commercially or for business purposes.
-* Use the Work privately beyond what is permitted by applicable law.
-* Sell, rent, lease, sublicense, or otherwise transfer the Work.
-* Include the Work in another project.
-* Mirror or host the Work on another service.
-* Use the Work in videos, livestreams, broadcasts, or presentations.
-* Use the Work for artificial intelligence, machine learning, data mining, or model training.
-* Use the Work in datasets, archives, databases, or collections.
-* Circumvent or attempt to bypass any technical protection measures.
-* Remove, modify, or obscure copyright notices, trademarks, or ownership information.
+The first documented use and development of Nexus Authority occurred in 2025.
 
-## 4. No License Granted
+Any use, representation, or publication that creates the impression that a project is officially connected to, authorized by, or part of the original Nexus Authority project is prohibited without explicit written permission from ShyyYuki.
 
-No rights of use, reproduction, modification, distribution, public display, commercial exploitation, or any other rights are granted unless expressly authorized in writing by ShyyYuki.
+## 4. Prohibited Actions
 
-## 5. Written Permission
+Without prior explicit written permission from ShyyYuki, the following actions are prohibited:
 
-Any permission granted by ShyyYuki must be in written form. Verbal statements, implied consent, or failure to enforce this License shall not constitute permission or create any legal rights.
+* Copying.
+* Downloading.
+* Storing.
+* Publishing.
+* Uploading.
+* Sharing.
+* Distributing.
+* Mirroring.
+* Archiving.
+* Modifying.
+* Editing.
+* Translating.
+* Compiling.
+* Decompiling.
+* Reverse engineering.
+* Extracting individual components.
+* Reusing.
+* Rebuilding.
+* Reprogramming.
+* Renting.
+* Lending.
+* Selling.
+* Licensing.
+* Sublicensing.
+* Commercial use.
+* Private redistribution.
+* Public display.
+* Public availability.
+* Use in videos, streams, or social media.
+* Use for AI training or machine learning systems.
+* Use in databases or data collections.
+* Creation of derivative works.
+* Use of individual parts or excerpts.
 
-## 6. Automated Access
+## 5. No Granted Rights
 
-Automated copying, scraping, indexing, archiving, data collection, analysis, extraction, or any other automated processing of the Work is strictly prohibited without prior written authorization.
+Unless ShyyYuki provides explicit written permission, no rights to use the work are granted.
 
-## 7. Disclaimer of Warranty
+## 6. Written Permissions
 
-The Work is provided "AS IS" without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement, to the fullest extent permitted by applicable law.
+Permissions are only valid if explicitly provided in writing by ShyyYuki. Verbal statements or passive tolerance do not grant any rights.
 
-## 8. Limitation of Liability
+## 7. Automated Usage
 
-To the maximum extent permitted by applicable law, ShyyYuki shall not be liable for any direct, indirect, incidental, consequential, special, exemplary, or punitive damages arising from or related to the use or inability to use the Work.
+Any automated processing, analysis, data collection, archiving, indexing, or other machine-based usage is prohibited.
+
+## 8. Liability
+
+The work is provided without warranties. ShyyYuki assumes no liability for direct or indirect damages, data loss, service interruptions, or other consequences to the maximum extent permitted by law.
 
 ## 9. Violations
 
-Any use of the Work in violation of this License constitutes unauthorized use. ShyyYuki reserves all legal rights and remedies available under applicable law, including claims for injunctive relief, damages, and any other available legal remedies.
+Any use contrary to this license constitutes unauthorized use. ShyyYuki reserves all legal rights and remedies.
 
 ## 10. Severability
 
-If any provision of this License is determined to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+If any provision of this license becomes invalid or unenforceable, the remaining provisions remain unaffected.
 
-## 11. Amendments
+## 11. Changes
 
-ShyyYuki reserves the right to revise, replace, or update this License at any time. Unless otherwise agreed in writing, previously granted written permissions remain subject to the License version in effect at the time the permission was granted.
+ShyyYuki may modify this license or replace it with a new version at any time. Previously granted written permissions remain governed by the version applicable at the time of approval unless otherwise agreed.
 
-## 12. Reservation of Rights
+## 12. Final Provisions
 
-All rights not expressly granted under this License are reserved exclusively by ShyyYuki.
+All rights not expressly granted under this license remain exclusively reserved by ShyyYuki.
 
-## 13. Entire Agreement
-
-This License constitutes the entire agreement regarding the use of the Work and supersedes any prior oral or written understandings concerning its use.
-
-**Summary:** Unless you have obtained prior explicit written permission from ShyyYuki, you are not permitted to copy, modify, distribute, publish, commercialize, or otherwise use any part of the Work. All rights are reserved by ShyyYuki.
+**Summary:**  
+Without prior explicit written permission from ShyyYuki, no use of protected works, content, or components of Nexus Authority is permitted.
